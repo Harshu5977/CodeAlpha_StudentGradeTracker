@@ -44,6 +44,25 @@ A simple rule-based Java chatbot.
 - what is your name
 - bye
 
+- ---
+
+
+- ## Task 4 - Hotel Reservation System
+
+A Java-based hotel reservation system that allows users to book and manage hotel rooms.
+
+### Features
+- View available rooms
+- Book hotel rooms
+- Cancel reservations
+- View booking details
+- Payment simulation
+
+### Room Types
+- Standard
+- Deluxe
+- Suite
+
 ---
 
 ## Technologies Used
